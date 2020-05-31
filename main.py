@@ -1,6 +1,6 @@
 import requests
 print()
-print('### \033[7;32;33mConsulta CEP\033[m ###')
+print('\033[7;32;33mConsulta CEP\033[m')
 print()
 
 cep = input('Informe o CEP a ser consultado: ')
